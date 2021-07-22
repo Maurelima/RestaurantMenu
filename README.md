@@ -3,7 +3,7 @@
 ## Cardápio digital para utilização via web
 
 Cardápio digital que visa a facilitação do acesso dos clientes aos pratos do estabelecimento, uma vez que o risco de contaminação com covid-19 
-almenta drasticamente ao passar o cardápio fisíco de mão em mão.
+aumenta drasticamente ao passar o cardápio fisíco de mão em mão.
 O Cardápio pode ser acessado fácilmente via QR-Code, tal qual será escaneado pelo cliente e redirecionado para a url do cardápio.
 
 ## Passos iniciais
